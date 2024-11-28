@@ -1,0 +1,62 @@
+{
+    "geek.exe": {
+        "description": "卸载工具",
+        "hidden": false
+    },
+    "Typora.exe": {
+        "description": "markdown编辑器",
+        "hidden": false
+    },
+    "rg.exe": {
+        "description": "未知工具",
+        "hidden": true
+    },
+    "AmazTool.exe": {
+        "description": "未知工具",
+        "hidden": true
+    },
+    "v2rayN.exe": {
+        "description": "带GUI界面的VPN配置器",
+        "hidden": false
+    },
+    "EnableLoopback.exe": {
+        "description": "未知工具",
+        "hidden": true
+    },
+    "hysteria-windows-amd64.exe": {
+        "description": "未知工具",
+        "hidden": true
+    },
+    "juicity-client.exe": {
+        "description": "未知工具",
+        "hidden": true
+    },
+    "mihomo-windows-amd64-compatible.exe": {
+        "description": "未知工具",
+        "hidden": true
+    },
+    "naive.exe": {
+        "description": "未知工具",
+        "hidden": true
+    },
+    "sing-box.exe": {
+        "description": "未知工具",
+        "hidden": true
+    },
+    "tuic-client.exe": {
+        "description": "未知工具",
+        "hidden": true
+    },
+    "v2ray.exe": {
+        "description": "未知工具",
+        "hidden": true
+    },
+    "xray.exe": {
+        "description": "未知工具",
+        "hidden": true
+    },
+    "ToolScanner.exe": {
+        "description": "扫描已有工具",
+        "hidden": false
+    }
+}
